@@ -4,6 +4,16 @@ Built a CNN model for classifying images on CIFAR-10 dataset. Tried with differe
 Requirements: Tensorflow, Keras, Matplotlib, Seaborn\
 Performance metrics: Accuracy
 
+### About the dataset:
+Image dimensions: 32x32x3
+Total no. of images = 60,000\
+No. of train images = 50,000\
+No. of test images = 10,000\
+Total number of classes = 10\
+No. of train images (classwise) = 5,000\
+No. of test images (classwise) = 1,000.
+
+
 ### Performance of the model with different architectures and different regularization techniques:
 
 
