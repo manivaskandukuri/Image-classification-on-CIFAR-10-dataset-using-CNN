@@ -5,7 +5,7 @@ Requirements: Tensorflow, Keras, Matplotlib, Seaborn\
 Performance metrics: Accuracy
 
 ### About the dataset:
-Image dimensions: 32x32x3
+Image dimensions: 32x32x3\
 Total no. of images = 60,000\
 No. of train images = 50,000\
 No. of test images = 10,000\
