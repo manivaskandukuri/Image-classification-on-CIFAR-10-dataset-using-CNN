@@ -2,7 +2,7 @@
 Built a CNN model for classifying images on CIFAR-10 dataset. Tried with different CNN architectures and applied different regularization techniques such as Dropout, Batch-normalization and data augmentation and observed the improvement in the performance of the model
 
 Requirements: Tensorflow, Keras, Matplotlib, Seaborn\
-Performance metrics used: Accuracy
+Performance metrics: Accuracy
 
 ### Performance of the model with different architectures and different regularization techniques:
 
